@@ -7,6 +7,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>Hadoop-2.6.5</module>
+		<module>Hive</module>
 	</modules>
 	<dependencies>
 		<dependency>
